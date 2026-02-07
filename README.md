@@ -40,7 +40,12 @@ Assigment4:
 - Appends additional data
 - Displays final file content
 
+Assigment5:
+### Task 1
+Dictionary storing student marks and retrieving them.
 
+### Task 2
+List slicing to extract and reverse elements.
 
 
 
