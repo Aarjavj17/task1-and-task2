@@ -30,8 +30,17 @@ Assigment 3:
 ### Task 1
 Calculate factorial of a number using a function.
 
-### Task 2
-Use math module to calculate square root, natural log, and sine.
+Assigment4:
+## Task 1: Read a File
+- Reads sample.txt
+- Displays content line by line
+
+### Task 2: Write & Append File
+- Writes user input to output.txt
+- Appends additional data
+- Displays final file content
+
+
 
 
 
